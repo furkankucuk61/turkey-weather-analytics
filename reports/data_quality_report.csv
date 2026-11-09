@@ -1,0 +1,17 @@
+column,missing_count,missing_percentage
+time,0,0.0
+temperature_2m,0,0.0
+relative_humidity_2m,0,0.0
+precipitation,0,0.0
+wind_speed_10m,0,0.0
+weather_code,0,0.0
+city,0,0.0
+retrieved_at,0,0.0
+pm10,0,0.0
+pm2_5,0,0.0
+nitrogen_dioxide,0,0.0
+ozone,0,0.0
+european_aqi,0,0.0
+date,0,0.0
+hour,0,0.0
+day_name,0,0.0
