@@ -1,5 +1,5 @@
 metric,lower_limit,upper_limit,outlier_count
-temperature_2m,3.7,29.3,0
-pm2_5,-2.36,23.34,22
-pm10,-4.7,39.5,18
-european_aqi,2.5,62.5,0
+temperature_2m,1.65,29.25,0
+pm2_5,-6.35,34.05,27
+pm10,-5.47,49.32,23
+european_aqi,6.5,66.5,8
